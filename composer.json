@@ -1,0 +1,11 @@
+{
+    "name": "mehmet/example",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mehmet AYHAN",
+            "email": "mehmetayhantr@gmail.com"
+        }
+    ],
+    "require": {}
+}
